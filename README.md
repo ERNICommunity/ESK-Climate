@@ -1,6 +1,8 @@
 ESK-Climate
 ===========
 
+:warning: **REPOSITORY NOT ACTIVE SINCE 2016 Dependabot alerts in git security settings disabled**
+
 This app is used to measure temperature and humidity in office and show it on webpage.
 
 
